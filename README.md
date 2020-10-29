@@ -7,5 +7,5 @@
 Pre-requisites:
   - install the [Tampermonkey](https://www.tampermonkey.net) extension, for example for [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
-Go to [ironstudentid.user.js](https://github.com/abernier/ironstudentid/raw/master/ironstudentid.user.js) and click the `Install` button.
+Go to [ironstudentid.user.js](https://github.com/abernier/ironstudentid/raw/main/ironstudentid.user.js) and click the `Install` button.
 
