@@ -5,8 +5,8 @@
 // @namespace    name.abernier
 // @description  change some IDs into students' names on https://metabase.ironhack.tech/*
 // @homepage     https://github.com/abernier/ironstudentid
-// @updateURL    https://github.com/abernier/ironstudentid/raw/master/ironstudentid.user.js
-// @downloadURL  https://github.com/abernier/ironstudentid/raw/master/ironstudentid.user.js
+// @updateURL    https://github.com/abernier/ironstudentid/raw/main/ironstudentid.user.js
+// @downloadURL  https://github.com/abernier/ironstudentid/raw/main/ironstudentid.user.js
 // @supportURL   https://github.com/abernier/ironstudentid/issues
 // @include      /^https?:\/\/metabase\.ironhack\.tech\/.*/
 // @grant        GM_getResourceText
