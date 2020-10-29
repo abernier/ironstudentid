@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Tampermonkey-ironstudentid.user.js-0a6b00)](https://github.com/abernier/ironstudentid/raw/master/ironstudentid.user.js)
+[![](https://img.shields.io/badge/Tampermonkey-ironstudentid.user.js-0a6b00)](https://github.com/abernier/ironstudentid/raw/main/ironstudentid.user.js)
 
 `ironstudentid.user.js` is a userscript that change IDs with students' names on https://metabase.ironhack.tech plateform.
 
