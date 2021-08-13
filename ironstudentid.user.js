@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ironstudentid
-// @version      1.0.3
+// @version      1.0.4
 // @author       abernier
 // @namespace    name.abernier
 // @description  change some IDs into students' names on https://metabase.ironhack.tech/*
@@ -9,6 +9,7 @@
 // @downloadURL  https://github.com/abernier/ironstudentid/raw/main/ironstudentid.user.js
 // @supportURL   https://github.com/abernier/ironstudentid/issues
 // @include      /^https?:\/\/metabase\.ironhack\.tech\/.*/
+// @include      /^https?:\/\/ironhack\.metabaseapp\.com\/.*/
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
