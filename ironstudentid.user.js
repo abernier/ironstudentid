@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ironstudentid
-// @version      1.0.4
+// @version      1.1.0
 // @author       abernier
 // @namespace    name.abernier
 // @description  change some IDs into students' names on https://metabase.ironhack.tech/*
@@ -16,12 +16,22 @@
 
 console.log('ironstudents', document.body)
 
-//
-// see: https://metabase.ironhack.tech/question/387
-// see: https://metabase.ironhack.tech/question/389
-//
-
 const students = {
+    // wdpt202108par
+    '60705c936ba3a7002ba63997': 'Yoojeong',
+    '606ab5c7183cbf002b6b62b2': 'Cleiton',
+    '604f991e276a60002b30e402': 'Kevin',
+    '60e30e1a86ea33002bbb01e2': 'Silas',
+    '60772aca30cc0c002ba8d4e1': 'Claire',
+    '60792d47fca637002b292204': 'Auriane',
+    '605da3037d558d002bcd1b75': 'Cindy',
+    '605da7e354d91c002bc7762b': 'Aude',
+    '6062dbeadbbb62002b21c27e': 'Emmanuelle',
+    '60d5ae573703f0002b541ae0': 'Najia',
+    '60c09499e088d1002b930ef4': 'Julie',
+    '60b747a0391f01002be70917': 'Léa',
+    '6092fdba4ed0df002bffc1eb': 'Eva',
+    '6099437cd7c552002bcd5c44': 'Hassan',
     // wdpt202102par
     '5f7727256fab06000aa7c360': 'Ting-Chi',
     '5ff47e3ffd5493002d13ad7d': 'Tran',
