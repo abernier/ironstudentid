@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ironstudentid
-// @version      1.1.0
+// @version      1.1.1
 // @author       abernier
 // @namespace    name.abernier
 // @description  change some IDs into students' names on https://metabase.ironhack.tech/*
@@ -71,7 +71,7 @@ const students = {
 // Observe DOM changes
 const observer = new MutationObserver((mutationsList, observer) => {
     // Replace IDs by students' names
-    document.querySelectorAll('.cellData').forEach($cell => {
+    document.querySelectorAll('.cellData, .tether-target').forEach($cell => {
         //console.log('$cell', $cell)
         const studentId = $cell.textContent.trim()
 
