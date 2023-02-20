@@ -17,6 +17,17 @@
 console.log('ironstudents', document.body)
 
 const students = {
+    // wdpt202302par
+    '63d95fe1efe919002c3b8d6a': 'Bruno',
+    '63a1ed25f23017002c380cf0': 'Cedric',
+    '63316d43cc3798002c7d292e': 'Henri',
+    '63935db686a05d002ccd4440': 'Mohamed',
+    '63de3dc3ca07ad002cfce869': 'Nathalie',
+    '63a06f83f8ea73002c573748': 'Nicolas',
+    '6391e7234fd83d002c2333f6': 'Rachel',
+    '634e5937d8bb84002c921d75': 'Rayane',
+    '63bd3b4bb2ef9e002c0d37c8': 'Singabe',
+    '63b2fb1bfaaab9002c7b0b2a': 'Thomas',
     // wdpt202108par
     '60705c936ba3a7002ba63997': 'Yoojeong',
     '606ab5c7183cbf002b6b62b2': 'Cleiton',
