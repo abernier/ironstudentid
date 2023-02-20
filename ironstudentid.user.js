@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ironstudentid
-// @version      1.1.2
+// @version      1.2.2
 // @author       abernier
 // @namespace    name.abernier
 // @description  change some IDs into students' names on https://metabase.ironhack.tech/*
